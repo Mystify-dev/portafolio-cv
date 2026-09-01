@@ -2,7 +2,7 @@
 
 Bienvenido al repositorio de mi currículum y portafolio web interactivo. Este proyecto fue desarrollado para presentar mi perfil académico, trayectoria profesional, proyectos destacados y habilidades técnicas como Ingeniero de Software.
 
-🔗 **[Ver Portafolio en Vivo](https://broca-dev.eduardobrocasanchezhermilo.workers.dev)**
+🔗 **[Ver Portafolio en Vivo](https://9ff4a5e8.broca-dev.pages.dev)**
 
 ## ✨ Características Principales
 * **🌍 Bilingüe:** Soporte dinámico para cambio de idioma entre Español e Inglés en tiempo real mediante manipulación del DOM con JavaScript.
